@@ -35,3 +35,13 @@ git add .gitignore
 git commit -m "Agregar gitignore"
 git push
 git push origin main
+git add .
+git commit -m "Agregado el workflow de Hugo"
+git push origin main
+git remote set-url origin https://github.com/eleoletras/eleoletras.github.io.git
+git push origin main
+hugo server
+git add .gitignore
+git commit -m "Actualizado gitignore para no incluir el historial de bash"
+git push origin main
+giit add .
