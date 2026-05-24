@@ -1,3 +1,42 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/texify"]
+	path = themes/texify
+	url = https://github.com/michaelneuper/hugo-texify3.git
+[submodule "themes/shibui"]
+	path = themes/shibui
+	url = https://github.com/ntk148v/shibui.git
+[submodule "themes/lucentlink"]
+	path = themes/lucentlink
+	url = https://github.com/cx48/LucentLink-Hugo.git
+[submodule "themes/loficode"]
+	path = themes/loficode
+	url = https://github.com/meimakes/loficode-hugo-theme.git
+[submodule "themes/kayal"]
+	path = themes/kayal
+	url = https://github.com/mnjm/kayal.git
+[submodule "themes/ink"]
+	path = themes/ink
+	url = https://github.com/vinooganesh/hugo-ink.git
+[submodule "themes/sugo"]
+	path = themes/sugo
+	url = https://github.com/psugam/sugo.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/bearblog"]
+	path = themes/bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/beautiful"]
+	path = themes/beautiful
+	url = https://github.com/halogenica/beautifulhugo.git

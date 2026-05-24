@@ -1,7 +1,7 @@
 baseURL = 'https://eleohdev.github.io/'
 languageCode = 'es'
 title = 'eLeoLetras'
-theme = 'PaperMod'
+theme = 'beautiful'
 
 [pagination]
 pagerSize = 5

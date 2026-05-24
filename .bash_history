@@ -45,3 +45,33 @@ git add .gitignore
 git commit -m "Actualizado gitignore para no incluir el historial de bash"
 git push origin main
 giit add .
+git add .
+git commit -m "Nuevo ícono"
+git push origin main
+hugo server
+git submodule add https://github.com/nanxiaobei/hugo-paper.git themes/paper
+hugo server
+git submodule add https://github.com/imfing/hextra.git themes/hextra
+hugo server
+git submodule add https://github.com/LukasJoswiak/etch.git themes/etch
+hugo server
+git submodule add https://github.com/michaelneuper/hugo-texify3.git themes/texify
+hugo server
+git submodule add https://github.com/ntk148v/shibui.git themes/shibui
+hugo server
+git submodule add https://github.com/cx48/LucentLink-Hugo.git themes/lucentlink
+hugo server
+git submodule add https://github.com/meimakes/loficode-hugo-theme.git themes/loficode
+hugo server
+git submodule add https://github.com/mnjm/kayal.git themes/kayal
+hugo server
+git submodule add https://github.com/vinooganesh/hugo-ink.git themes/ink
+hugo server
+git submodule add https://github.com/psugam/sugo.git themes/sugo
+hugo server
+git submodule add https://github.com/luizdepra/hugo-coder.git themes/coder
+hugo server
+git submodule add https://github.com/janraasch/hugo-bearblog.git themes/bearblog
+hugo server
+git submodule add https://github.com/halogenica/beautifulhugo.git themes/beautiful
+hugo server
