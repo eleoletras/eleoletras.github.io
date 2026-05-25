@@ -101,3 +101,18 @@ git add .
 git commit -m "error de commit"
 git push origin main
 git status
+git add .
+git status
+git commit -m "retoques en MDyH"
+git push origin main
+hugo server
+ln -s /home/leoh/Documentos/Compartidos/Historias/cortos content/cortos
+ln -s /home/leoh/Documentos/Compartidos/Historias/cuentos content/cuentos
+find content
+find -L content
+sudo mount --bind /home/leoh/Documentos/Compartidos/Historias/ content
+find content
+nano /etc/fstab
+sudo nano /etc/fstab
+hugo server
+git status
