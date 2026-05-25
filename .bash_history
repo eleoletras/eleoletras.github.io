@@ -116,3 +116,9 @@ nano /etc/fstab
 sudo nano /etc/fstab
 hugo server
 git status
+git add .
+git status
+git commit -m "nuevo sistema para escribir obras a distancia; agregadas novelas"
+git push origin main
+hugo server
+git t add .

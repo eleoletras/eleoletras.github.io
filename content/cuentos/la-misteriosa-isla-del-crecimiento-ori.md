@@ -12,5 +12,5 @@ weight = 1
 ## Capítulo cuarto. Mafiti, el escape
 ## Capítulo quinto. Pohane, el amor
 ## Capítulo sexto. Mama, la madre
-## Capítulo séptimo. Tai, el amigo
+## Capítulo séptimo. Tai, la amistad
 ## Capítulo octavo. Aitua, la maldad
