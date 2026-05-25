@@ -81,3 +81,17 @@ git push origin main
 hugo server
 hugo new cuentos/la-misteriosa-isla-del-crecimiento-ori.md
 hugo server
+git add .
+git commit -m "Arreglada referencia a URL anterior y cambio de tema"
+git push origin main
+hugo server
+grep -Ri favicon themes/PaperMod
+hugo server
+hugo new cuentos/mirada_hacia_el_futuro_mirando_hacia_el_presente.md
+hugo new cortos/mirada_hacia_el_futuro_mirando_hacia_el_presente.md
+hugo server
+hugo server -D
+grep -Ri mainSections themes/PaperMod
+grep -Ri mainSections .
+hugo server
+git add .

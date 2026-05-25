@@ -2,9 +2,9 @@
 title = 'La misteriosa isla del crecimiento: Ori, el osito'
 date = 2026-05-25T00:33:21-03:00
 draft = false
+summary = "PRÓXIMAMENTE"
+weight = 1
 +++
-
-# PRÓXIMAMENTE
 
 ## Capítulo primero. Tupu, la bruja
 ## Capítulo segundo. Moni, el dinero

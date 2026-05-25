@@ -7,8 +7,10 @@ theme = 'PaperMod'
 pagerSize = 5
 
 [params]
+mainSections = ["cortos", "cuentos", "novelas"]
 defaultTheme = "dark"
-ShowReadingTime = true
+ShowReadingTime = false
+ShowWordCount = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 
