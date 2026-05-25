@@ -97,3 +97,7 @@ hugo server
 git add .
 git commit -m "mejorado el tema, nuevas sinopsis, Ori al inicio"
 git push origin main
+git add .
+git commit -m "error de commit"
+git push origin main
+git status
