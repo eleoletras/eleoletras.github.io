@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cortos/</loc>
-    <lastmod>2026-05-24T06:55:42-03:00</lastmod>
+    <loc>http://localhost:1313/cuentos/</loc>
+    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cuentos/la-misteriosa-isla-del-crecimiento-ori/</loc>
+    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cortos/</loc>
     <lastmod>2026-05-24T06:55:42-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cortos/musgo-duendes-y-hadas/</loc>

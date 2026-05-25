@@ -75,3 +75,9 @@ git submodule add https://github.com/janraasch/hugo-bearblog.git themes/bearblog
 hugo server
 git submodule add https://github.com/halogenica/beautifulhugo.git themes/beautiful
 hugo server
+git add .
+git commit -m "Nuevos temas experimentales"
+git push origin main
+hugo server
+hugo new cuentos/la-misteriosa-isla-del-crecimiento-ori.md
+hugo server

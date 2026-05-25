@@ -1,7 +1,7 @@
-baseURL = 'https://eleohdev.github.io/'
-languageCode = 'es'
+baseURL = 'https://eleoletras.github.io/'
+languageCode = 'es-ar'
 title = 'eLeoLetras'
-theme = 'beautiful'
+theme = 'PaperMod'
 
 [pagination]
 pagerSize = 5
@@ -18,16 +18,16 @@ ShowBreadCrumbs = true
   identifier = "cortos"
   name = "Cortos"
   url = "/cortos/"
-  weight = 10
+  weight = 1
 
   [[menu.main]]
   identifier = "cuentos"
   name = "Cuentos"
   url = "/cuentos/"
-  weight = 20
+  weight = 2
 
   [[menu.main]]
   identifier = "novelas"
   name = "Novelas"
   url = "/novelas/"
-  weight = 20
+  weight = 3
