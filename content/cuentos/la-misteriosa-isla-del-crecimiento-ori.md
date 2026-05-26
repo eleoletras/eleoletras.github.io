@@ -1,6 +1,6 @@
 +++
 title = 'La misteriosa isla del crecimiento: Ori, el osito'
-date = 2026-05-25T00:33:21-03:00
+date = 2026-05-25
 draft = false
 summary = "PRÓXIMAMENTE"
 weight = 1

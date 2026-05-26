@@ -1,6 +1,6 @@
 +++
 title = 'Musgo, duendes y hadas'
-date = 2026-05-24T06:55:42-03:00
+date = 2023-09-17T00:00:00-03:00
 draft = false
 summary = "En la mente de un joven consumido por la ansiedad y el aislamiento, sobreviven duendes, hadas y un musgo que alguna vez estuvo vivo. Cuando intenta romper el ciclo de apatía y obsesión que lo consumía, descubre un nuevo refugio dentro de sí mismo."
 +++

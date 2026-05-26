@@ -122,3 +122,11 @@ git commit -m "nuevo sistema para escribir obras a distancia; agregadas novelas"
 git push origin main
 hugo server
 git t add .
+git add .
+git status
+git commit -m "nuevo favicon"
+git push origin main
+git submodule add https://github.com/elecbrandy/freshpink.git themes/freshpink
+hugo server
+hugo new cortos/un-martirio-de-estrofas.md
+hugo server
