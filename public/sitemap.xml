@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/cuentos/la-misteriosa-isla-del-crecimiento-ori/</loc>
-    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cuentos/</loc>
-    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-25T00:33:21-03:00</lastmod>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cortos/</loc>
-    <lastmod>2023-09-19T00:00:00-03:00</lastmod>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cortos/ya-no-me-hables/</loc>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cuentos/</loc>
+    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cortos/qu%C3%A9-est%C3%A1-mal/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cortos/mirada_hacia_el_futuro_mirando_hacia_el_presente/</loc>
     <lastmod>2023-09-19T00:00:00-03:00</lastmod>

@@ -130,3 +130,14 @@ git submodule add https://github.com/elecbrandy/freshpink.git themes/freshpink
 hugo server
 hugo new cortos/un-martirio-de-estrofas.md
 hugo server
+git add .
+git commit -m "Cambios en algunas obras"
+git push origin main
+hugo server
+git config --get user.name
+git confir user.name "eleoletras"
+git config user.name "eleoletras"
+git config user.email "eleoh16@gmail.com"
+git config --get user.email
+git config --get user.name
+git status
