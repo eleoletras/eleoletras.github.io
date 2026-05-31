@@ -141,3 +141,11 @@ git config user.email "eleoh16@gmail.com"
 git config --get user.email
 git config --get user.name
 git status
+git add .
+git commit -m "Nuevas entradas"
+git push
+git push --set-upstream origin main
+git remote -v
+git remote set-url origin git@gh-letras:eleoletras/eleoletras.github.io.git
+git remote -v
+git push --set-upstream origin main
